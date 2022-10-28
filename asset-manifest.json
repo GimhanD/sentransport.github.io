@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a329da23.css",
+    "main.js": "/static/js/main.328e9bce.js",
+    "static/js/787.931ba5e8.chunk.js": "/static/js/787.931ba5e8.chunk.js",
+    "static/media/bgvideo.mp4": "/static/media/bgvideo.508d01c526625e0dd08b.mp4",
+    "static/media/logo.png": "/static/media/logo.aa7587a0219028d89fb6.png",
+    "static/media/FamiljenGroteskGF-BoldItalic.ttf": "/static/media/FamiljenGroteskGF-BoldItalic.d52d5c6c8e4f738fd6e4.ttf",
+    "index.html": "/index.html",
+    "main.a329da23.css.map": "/static/css/main.a329da23.css.map",
+    "main.328e9bce.js.map": "/static/js/main.328e9bce.js.map",
+    "787.931ba5e8.chunk.js.map": "/static/js/787.931ba5e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a329da23.css",
+    "static/js/main.328e9bce.js"
+  ]
+}
